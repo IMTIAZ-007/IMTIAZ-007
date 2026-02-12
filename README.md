@@ -1,16 +1,111 @@
-## Hi there 👋
+<h1 align="center">Md. Nafees Imtiaz 👋</h1>
+<h3 align="center">🎓 IT Student | 💻 Not Developer | 🎬 Anime Analyst</h3>
 
-<!--
-**IMTIAZ-007/IMTIAZ-007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Information+%26+Communication+Engineering+Student;Java+%7C+Web+Developer;Learning+Everyday;Anime+%26+Series+Enthusiast+🎬" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+<img align="right" width="280" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
+
+- 🎓 B.Sc in Information & Communication Engineering (ICE)  
+- 🏫 Bangladesh University of Professionals (BUP)  
+- 📍 Mirpur, Dhaka  
+- 💻 I enjoy working independently and building things quietly  
+- 🎬 I watch too much anime (professionally 😌)  
+- ⚡ I waste time... but productively  
+
+---
+
+# 💻 Technical Skills
+
+## 👨‍💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,php,js,python,matlab,bash" />
+</p>
+
+---
+
+## 🌐 Web Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,nodejs,express,mysql" />
+</p>
+
+- Responsive Web Design  
+- REST API Basics  
+- Database Design  
+- Backend Development  
+
+---
+
+## 📱 App Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=androidstudio" />
+</p>
+
+- Java GUI  
+- Android App Development  
+
+---
+
+## 🛠️ Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
+
+- Cisco Packet Tracer  
+- MS Word  
+- MS Excel  
+- MS PowerPoint  
+
+---
+
+# 🧠 Core Strengths
+
+<p>
+  <img src="https://img.shields.io/badge/Problem%20Solving-✔️-blue" />
+  <img src="https://img.shields.io/badge/Teamwork-✔️-green" />
+  <img src="https://img.shields.io/badge/Time%20Management-✔️-orange" />
+  <img src="https://img.shields.io/badge/Adaptability-✔️-yellow" />
+  <img src="https://img.shields.io/badge/Communication-✔️-purple" />
+</p>
+
+
+---
+
+# 📂 Academic Project Experience
+
+- 🔹 Developed Java-based applications  
+- 🔹 Built database-driven systems using MySQL  
+- 🔹 Worked on MATLAB-based signal/system projects  
+- 🔹 Created full-stack web applications  
+- 🔹 Participated in group-based coursework projects  
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IMTEEZ-007&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IMTEEZ-007&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IMTEEZ-007&theme=tokyo-night"/>
+</p>
+ 
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200"/>
+</p>
+
+<h3 align="center">"Consistency beats motivation." 🚀</h3>
