@@ -1,8 +1,14 @@
 <h1 align="center">Md. Nafees Imtiaz 👋</h1>
 <h3 align="center">🎓 IT Student | 💻 Non Developer | 🎬 Anime Analyst</h3>
 
+<!-- Beautiful Gradient Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Information+%26+Communication+Engineering+Student;Java+%7C+Web+Developer;Learning+Everyday;Anime+%26+Series+Enthusiast+🎬" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Md.%20Nafees%20Imtiaz&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=I+can+work+alone.;Don't+try+to+challenge+me+or+I+will+demolish+you.;ICE+Student+%7C+Developer+%7C+Anime+Enthusiast" />
 </p>
 
 ---
@@ -13,8 +19,8 @@
 
 - 🎓 B.Sc in Information & Communication Engineering (ICE)  
 - 🏫 Bangladesh University of Professionals (BUP)  
-- 📍 Mirpur, Dhaka  
-- 💻 I enjoy working independently and building things quietly  
+- 📍 South Korea??  
+- 💻 I don't like computers. 
 - 🎬 I watch too much anime (professionally 😌)  
 - ⚡ I waste time... but productively  
 
