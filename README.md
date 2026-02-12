@@ -1,16 +1,22 @@
 <h1 align="center">Md. Nafees Imtiaz 👋</h1>
 <h3 align="center">🎓 IT Student | 💻 Non Developer | 🎬 Anime Analyst</h3>
-
-<!-- Anime Cinematic Background -->
-<p align="center">
-  <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif
-" />
-</p>
-
-<!-- Name -->
-<h1 align="center">
-  ⚔️ Md. Nafees Imtiaz ⚔️
-</h1>
+<!-- Animated Gradient Background -->
+<div style="
+  width: 100%;
+  height: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  background: linear-gradient(-45deg, #ff0080, #7928ca, #00c6ff, #ffdd00);
+  background-size: 400% 400%;
+  animation: gradientBG 15s ease infinite;
+">
+  <!-- Name -->
+  <h1 style="color: white; font-size: 3em; text-shadow: 2px 2px 10px black;">
+    ⚔️ Md. Nafees Imtiaz ⚔️
+  </h1>
+</div>
 
 <!-- Anime Typing Aura -->
 <p align="center">
@@ -22,6 +28,14 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff0080,100:7928ca&height=4&section=footer" width="100%"/>
 </p>
 
+<!-- Gradient Animation CSS -->
+<style>
+@keyframes gradientBG {
+  0% {background-position: 0% 50%;}
+  50% {background-position: 100% 50%;}
+  100% {background-position: 0% 50%;}
+}
+</style>
 
 ---
 
