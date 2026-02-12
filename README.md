@@ -1,15 +1,19 @@
 <h1 align="center">Md. Nafees Imtiaz 👋</h1>
 <h3 align="center">🎓 IT Student | 💻 Non Developer | 🎬 Anime Analyst</h3>
 
-<!-- Beautiful Gradient Banner -->
+<!-- Anime Aura Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Md.%20Nafees%20Imtiaz&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=220&section=header&text=Md.%20Nafees%20Imtiaz&fontSize=42&fontColor=FFDEE9&animation=fadeIn&desc=Main%20Character%20Energy.&descSize=18&descAlignY=75" />
 </p>
 
-<!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=I+can+work+alone.;Don't+try+to+challenge+me+or+I+will+demolish+you.;ICE+Student+%7C+Developer+%7C+Anime+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=800&color=FF69B4&center=true&vCenter=true&width=900&lines=I+can+work+alone.;Built+different.;Anime+arc+activated+🎌" />
 </p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/GRSnxyhJnPsaQy9YLn/giphy.gif" width="250"/>
+</p>
+
 
 ---
 
