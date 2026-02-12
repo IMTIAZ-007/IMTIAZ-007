@@ -1,18 +1,19 @@
 <h1 align="center">Md. Nafees Imtiaz 👋</h1>
 <h3 align="center">🎓 IT Student | 💻 Non Developer | 🎬 Anime Analyst</h3>
 
-<!-- Villain Arc Banner -->
+<!-- Anime Power Aura -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:2b0000,100:8B0000&height=240&section=header&text=The%20Villain%20Arc%20Begins&fontSize=40&fontColor=FF0000&animation=blinking" />
+  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=FF0000&center=true&vCenter=true&width=1000&lines=I+walk+alone.;I+build+alone.;Challenge+me+and+face+the+consequences." />
-</p>
+<h1 align="center">
+  Md. Nafees Imtiaz ⚔️
+</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="260"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2600&pause=800&color=FF69B4&center=true&vCenter=true&width=1000&lines=I+can+work+alone.;Main+character+energy+activated.;Built+different." />
 </p>
+>
 
 
 
