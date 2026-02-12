@@ -1,24 +1,12 @@
 <h1 align="center">Md. Nafees Imtiaz 👋</h1>
-<h3 align="center">🎓 IT Student | 💻 Non Developer | 🎬 Anime Analyst</h3>
+<h3 align="center">🎓 IT Student | 💻 Non Developer | 🎬 Movie , Series & Anime Analyst</h3>
 
 <!-- Animated Gradient Background -->
-<div align="center" style="
-  width: 100%;
-  height: 300px;
-  background: linear-gradient(-45deg, #ff0080, #7928ca, #00ffff, #ffdd00);
-  background-size: 400% 400%;
-  animation: gradientBG 15s ease infinite;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  border-radius: 12px;
-">
-  <h1 style="color:white; font-size: 3em; text-shadow: 2px 2px 12px #000;">
-    ⚔️ Md. Nafees Imtiaz ⚔️
-  </h1>
-</div>
+<p align="center">
+  <img src="https://i.imgur.com/WqT3N1Z.gif" width="100%" style="border-radius:12px;" />
+</p>
 
-<!-- Typing Aura -->
+<!-- Anime Typing Aura -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=FF69B4&center=true&vCenter=true&width=1000&lines=I+can+work+alone.;Don't+try+to+challenge+me.;Or+I+will+demolish+you.;Main+Character+Energy+Activated+🎌" />
 </p>
@@ -28,14 +16,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff0080,100:7928ca&height=4&section=footer" width="100%"/>
 </p>
 
-<!-- Inline CSS Animation -->
-<style>
-@keyframes gradientBG {
-  0% {background-position: 0% 50%;}
-  50% {background-position: 100% 50%;}
-  100% {background-position: 0% 50%;}
-}
-</style>
 
 
 ## 🚀 About Me
