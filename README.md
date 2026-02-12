@@ -3,7 +3,8 @@
 
 <!-- Anime Cinematic Background -->
 <p align="center">
-  <img src="https://media.giphy.com/media/GRSnxyhJnPsaQy9YLn/giphy.gif" width="100%" />
+  <img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif
+" />
 </p>
 
 <!-- Name -->
