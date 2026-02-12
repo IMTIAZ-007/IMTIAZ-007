@@ -1,5 +1,5 @@
 <h1 align="center">Md. Nafees Imtiaz 👋</h1>
-<h3 align="center">🎓 IT Student | 💻 Not Developer | 🎬 Anime Analyst</h3>
+<h3 align="center">🎓 IT Student | 💻 Non Developer | 🎬 Anime Analyst</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Information+%26+Communication+Engineering+Student;Java+%7C+Web+Developer;Learning+Everyday;Anime+%26+Series+Enthusiast+🎬" />
@@ -93,12 +93,12 @@
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IMTEEZ-007&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IMTEEZ-007&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=IMTIAZ-007&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IMTIAZ-007&theme=tokyonight" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IMTEEZ-007&theme=tokyo-night"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IMTIAZ-007&theme=tokyo-night"/>
 </p>
  
 
