@@ -1,19 +1,25 @@
 <h1 align="center">Md. Nafees Imtiaz 👋</h1>
 <h3 align="center">🎓 IT Student | 💻 Non Developer | 🎬 Anime Analyst</h3>
 
-<!-- Matrix Background -->
+<!-- Anime Cinematic Background -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKsQ8UQK7F1JHcY/giphy.gif" width="100%" />
+  <img src="https://media.giphy.com/media/GRSnxyhJnPsaQy9YLn/giphy.gif" width="100%" />
 </p>
 
-<h1 align="center" style="color:#00FF00;">
-  IMTEEZ-007
+<!-- Name -->
+<h1 align="center">
+  ⚔️ Md. Nafees Imtiaz ⚔️
 </h1>
 
+<!-- Anime Typing Aura -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2800&pause=800&color=00FF00&center=true&vCenter=true&width=1000&lines=I+work+alone.;No+noise.+Just+results.;System+compromised." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=FF69B4&center=true&vCenter=true&width=1000&lines=I+can+work+alone.;Don't+try+to+challenge+me.;Or+I+will+demolish+you.;Main+Character+Energy+Activated+🎌" />
 </p>
 
+<!-- Glowing Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff0080,100:7928ca&height=4&section=footer" width="100%"/>
+</p>
 
 
 ---
