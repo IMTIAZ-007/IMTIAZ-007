@@ -1,18 +1,19 @@
 <h1 align="center">Md. Nafees Imtiaz 👋</h1>
 <h3 align="center">🎓 IT Student | 💻 Non Developer | 🎬 Anime Analyst</h3>
 
-<!-- Anime Aura Banner -->
+<!-- Villain Arc Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:0F2027&height=220&section=header&text=Md.%20Nafees%20Imtiaz&fontSize=42&fontColor=FFDEE9&animation=fadeIn&desc=Main%20Character%20Energy.&descSize=18&descAlignY=75" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:2b0000,100:8B0000&height=240&section=header&text=The%20Villain%20Arc%20Begins&fontSize=40&fontColor=FF0000&animation=blinking" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=800&color=FF69B4&center=true&vCenter=true&width=900&lines=I+can+work+alone.;Built+different.;Anime+arc+activated+🎌" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=2500&pause=800&color=FF0000&center=true&vCenter=true&width=1000&lines=I+walk+alone.;I+build+alone.;Challenge+me+and+face+the+consequences." />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/GRSnxyhJnPsaQy9YLn/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="260"/>
 </p>
+
 
 
 ---
