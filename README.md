@@ -1,10 +1,6 @@
 <h1 align="center">Md. Nafees Imtiaz 👋</h1>
 <h3 align="center">🎓 IT Student | 💻 Non Developer | 🎬 Movie , Series & Anime Analyst</h3>
 
-<!-- Animated Gradient Background -->
-<p align="center">
-  <img src="https://i.imgur.com/WqT3N1Z.gif" width="100%" style="border-radius:12px;" />
-</p>
 
 <!-- Anime Typing Aura -->
 <p align="center">
@@ -103,7 +99,7 @@
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnByOXA0cmV5ZmM4bmZpZXVob2hqNHN5Ymg4MHk4dGlqdjV2dDY0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohjV6G9UwkB190zbq/giphy.gif" width="200"/>
 </p>
 
 <h3 align="center">"Consistency beats motivation." 🚀</h3>
