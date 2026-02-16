@@ -4,7 +4,7 @@
 
 <!-- Anime Typing Aura -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=FF69B4&center=true&vCenter=true&width=1000&lines=I+can+work+alone.;Don't+try+to+challenge+me.;Or+I+will+demolish+you.;Main+Character+Energy+Activated+🎌" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=FF69B4&center=true&vCenter=true&width=1000&lines=I+can+work+alone.;Don't+try+to+challenge+me.;Or+I+will+demolish+you." />
 </p>
 
 <!-- Glowing Divider -->
