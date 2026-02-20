@@ -1,4 +1,4 @@
-<h1 align="center">Md. Nafees Imtiaz 👋</h1>
+<h1 align="center">Hola! I am Md. Nafees Imtiaz 👋</h1>
 <h3 align="center">🎓 IT Student | 💻 Non Developer | 🎬 Movie , Series & Anime Analyst</h3>
 
 
@@ -23,7 +23,7 @@
 - 📍 South Korea??  
 - 💻 I don't like computers. 
 - 🎬 I watch too much anime (professionally 😌)  
-- ⚡ I waste time... but productively  
+- ⚡ I waste my time.  
 
 ---
 
@@ -102,4 +102,4 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnByOXA0cmV5ZmM4bmZpZXVob2hqNHN5Ymg4MHk4dGlqdjV2dDY0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohjV6G9UwkB190zbq/giphy.gif" width="200"/>
 </p>
 
-<h3 align="center">"Consistency beats motivation." 🚀</h3>
+<h3 align="center">"Whats 'Your Name' ??" 🚀</h3>
